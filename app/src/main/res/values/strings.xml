@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Blog Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Blog Application</string>
+    <string name="nav_header_subtitle">Milon Mahato</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_Login">Login</string>
+    <string name="menu_send">Send</string>
+    <string name="post1_H">TOP 10 PROGRAMMING LANGUAGES TRENDS</string>
+    <string name="post1_d">WHAT IS SQL?
+        SQL stands for Structured Query Language
+        SQL lets you access and manipulate databases
+        SQL is an ANSI (American National Standards Institute) standard systems. (Source : W3School)
+        WHAT CAN SQL DO?
+        SQL can execute queries against a database
+        SQL can retrieve data from a database
+        SQL can insert records in a database
+        SQL can update records in a database
+        SQL can delete records from a database
+        SQL can create new databases
+        SQL can create new tables in a database
+        SQL can create stored procedures in a database
+        SQL can create views in a database
+        SQL can set permissions on tables, procedures, and views
+    </string>
+    <string name="post1_h">
+        SQL is a standard language for accessing databases.
+        SQL is an ANSI (American National Standards Institute)
+        standard systems. (Source : W3School)</string>
+
+    <string name="post2_H">
+        TOP 10 ONLINE COMPILER
+    </string>
+    <string name="post2_d">
+        Online compilers are one type of tools that allows to compile the source code and execute it. Online compilers execute in various programming language. We use different compilers to run our codes like Dev C++, Visual Studio, Turbo C++, etc. But now it so easy we just require to connect through the internet and enter our code and run it. An online compiler has the same basic functionality as a conventional compiler.
+
+        Top 10 online compiler site name:
+
+        Ideone.com
+        Codepad
+        Hackerearth
+        Codechef
+        JSFiddle
+        JDoodle
+        OnlineGDB
+        GCC Explorer
+        DJGPP Public Access Cross-Compiler
+        Test Drive Comeau C/C++ Online
+    </string>
+    <string name="post2_h">
+        Online compilers are one type of tools that allows to compile the source code and execute it.
+        Online compilers execute in various programming language. We use different compilers to run our codes.
+    </string>
+
+    <string name="post3_H">
+        BEST NOSQL DATABASES 2019 – MOST POPULAR AMONG PROGRAMMERS
+    </string>
+    <string name="post3_d">
+        Online compilers are one type of tools that allows to compile the source code and execute it. Online compilers execute in various programming language. We use different compilers to run our codes like Dev C++, Visual Studio, Turbo C++, etc. But now it so easy we just require to connect through the internet and enter our code and run it. An online compiler has the same basic functionality as a conventional compiler.
+
+        Top 10 online compiler site name:
+
+        Ideone.com
+        Codepad
+        Hackerearth
+        Codechef
+        JSFiddle
+        JDoodle
+        OnlineGDB
+        GCC Explorer
+        DJGPP Public Access Cross-Compiler
+        Test Drive Comeau C/C++ Online
+    </string>
+    <string name="post3_h">
+        A database is a collection of information that is organized so that it can be easily accessed, managed and updated.
+        Before starting with the most popular NoSQL databases. You must have to know about NoSQL databases.
+    </string>
+
+    <string name="post4_H">
+        MOST POPULAR PYTHON PROGRAMMING BLOGS
+    </string>
+    <string name="post4_d">
+        Hey Programmer! Do you want to start your journey with Python? Python is a powerful multi-purpose programming language. In this article, we provide you different python blogs information. These blogs help to get started in Python, why you should learn it and how you can learn it. Before we will provide you blog information, we will discuss on the Python Programming Language.
+
+        Python is one of the easiest languages to learn. It provides a lot of features and capabilities. It is the best language for someone trying to learn computer programming for the first time.
+
+        PYTHON HISTORY
+        Python is created by Guido Van Rossum. He was working on the Amoeba distributed operating system group. He wanted to use an interpreted language like ABC that could access the Amoeba system calls. This led to the design of a new language which was later named Python. The name “Python” was adopted from the same series “Monty Python’s Flying Circus”.
+
+        FEATURES OF PYTHON PROGRAMMING
+        Easy to learn
+        Simple Language
+        Free
+        High-Level Language
+        Object-oriented
+        Open Source
+        Portable
+        Extensible
+        Embeddable
+    </string>
+    <string name="post4_h">
+        Hey Programmer! Do you want to start your journey with Python? Python is a powerful multi-purpose programming language.
+        In this article, we provide you different python blogs information. These blogs help to get started in Python.
+    </string>
+</resources>
